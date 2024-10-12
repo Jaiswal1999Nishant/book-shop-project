@@ -1,0 +1,6 @@
+Django==3.2.10
+stripe==2.65.0
+# python -m venv venv
+
+# source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+django-widget-tweaks==1.4.8
